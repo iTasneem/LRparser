@@ -7,7 +7,7 @@ This repository contains an LR parser implemented in Python to parse and analyze
 ## Contents
 
 - `sourcecode.txt`: The source code file containing the switch-case statement to be parsed.
-- `LRparser.py`: The Python script implementing the LR parser.
+- `LRparserOnSpecificSourceCode.ipynb`: The Python script implementing the LR parser.
 - `README.md`: This README file.
 
 ## Requirements
